@@ -65,6 +65,9 @@ Bước 5: Tính Điểm & Độ Khó
 GameManager tăng speed theo thời gian
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/731e3e3a-9109-42b4-b3f2-e5783cbe7b2a" />
+scripttinhdiem để tính điểm theo thời gian
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2ccd182c-e000-4a85-91c1-e9e447929850" />
+
 
 
 Bước 6: Game Over
