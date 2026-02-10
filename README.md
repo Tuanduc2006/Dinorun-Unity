@@ -88,8 +88,13 @@ bước 7:hoàn thiện và chạy game
 4. Kết luận
 
 Game hoàn thành đầy đủ chức năng: chạy, nhảy, tăng độ khó, game over.
+
 👤 Tác giả
+
 Sinh viên thực hiện: Đinh Tuấn Đức
+
 Hỗ trợ kỹ thuật & tư duy & sửa lỗi: ChatGPT 🤖
+
 📎 Link GitHub
+
 🔗 https://github.com/Tuanduc2006/DinhtuanducDinorun-Unity
