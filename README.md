@@ -20,7 +20,8 @@ Bước 1: Tạo Project
 Mở Unity Hub
 
 New Project → 2D Core
-<img width="1313" height="93" alt="image" src="https://github.com/user-attachments/assets/b8f62246-f547-4d0d-8ed8-b2c7664ed4d9" />
+<img width="1263" height="89" alt="image" src="https://github.com/user-attachments/assets/e2b6de03-b71e-4ad7-9d54-9e7f5dd4e33f" />
+
 
 
 Bước 2: Tạo Nhân Vật
