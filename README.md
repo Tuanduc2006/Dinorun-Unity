@@ -75,7 +75,18 @@ Hiện nút Restart
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/33cb3167-59e2-4c29-b776-e87bfecfb67e" />
 
+bước 7:hoàn thiện và chạy game
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7fa460d1-7a46-4c9a-a8a1-47066a27ff46" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9568d57d-6a6d-4394-9397-ecddd4ceb24e" />
+
+
+
 
 4. Kết luận
 
 Game hoàn thành đầy đủ chức năng: chạy, nhảy, tăng độ khó, game over.
+👤 Tác giả
+Sinh viên thực hiện: Đinh Tuấn Đức
+Hỗ trợ kỹ thuật & tư duy & sửa lỗi: ChatGPT 🤖
+📎 Link GitHub
+🔗 https://github.com/Tuanduc2006/DinhtuanducDinorun-Unity
