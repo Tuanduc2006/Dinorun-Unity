@@ -2,15 +2,15 @@
 
 ## 1️⃣ Giới thiệu
 
-Game Dino Run là game né chướng ngại vật, người chơi điều khiển khủng long nhảy qua cây xương rồng để ghi điểm.
+Game Dino Run là game né chướng ngại vật, người chơi điều khiển khủng long nhảy qua cây xương rồng chạy để ghi điểm.
 
 ## 2️⃣ Công cụ
 
-Unity 6
-
-Visual Studio
-
-C#
+Unity Engine (2D)
+C# (lập trình gameplay)
+Git & GitHub (quản lý mã nguồn)
+Visual Studio Code
+ChatGPT – ( AI ChatGPT tạo ảnh)hỗ trợ phân tích logic, debug và định hướng kiến trúc code (bạn đồng hành 🤝)
 
  ( AI CHATGPT tạo ảnh)
 
